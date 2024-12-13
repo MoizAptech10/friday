@@ -18,3 +18,9 @@ nav ul li{
     display: inline-block;
     margin-left: 15px;
 }
+
+img{
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
